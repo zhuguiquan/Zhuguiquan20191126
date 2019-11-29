@@ -37,6 +37,8 @@ public class MainActivity extends BaseActivity {
     @Override
     protected void initView() {
         //找控件
+
+        //哈哈哈
         imageView = findViewById(R.id.image);
         tb = findViewById(R.id.tb);
         vp = findViewById(R.id.vp);
